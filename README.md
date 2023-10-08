@@ -1,2 +1,2 @@
 # Mini-University-Student-Database
-Generated a sample student database for my university with SQL code, a Vertabelo diagram to show the relationships, and then tested it with specific queries.
+Generated a sample student database for my university with SQL code, a Vertabelo diagram to show the relationships, and then tested it with specific queries. This program presents the planning universities undertake once the next semester is approaching. I used fellow students in my classes as data entries and gave them schedules that accounted for faculty avaialbility, course offering, building location, classroom availability, registration time, and various other factors.
